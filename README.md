@@ -1,5 +1,6 @@
+Disclaimer: This was made modstly with the help of AI, so I don't take too much credit for it. It was a decent amount of work to get right and help with but I don't want to take too much credit for this.
 # Desktop-Virtual-Pinball
-VPIN for landscape
+VPIN for landscape monitors
 # VPinball Launcher
 
 A dark arcade-style frontend for Visual Pinball X tables.
