@@ -25,6 +25,9 @@ A dark arcade-style frontend for Visual Pinball X tables.
 | / | Page forward |
 | Enter | Launch selected table |
 | Ctrl + Click | Multi-select tables |
+| 1 | Previous Category |
+| 5 | Next Category |
+
 
 ## Features
 
