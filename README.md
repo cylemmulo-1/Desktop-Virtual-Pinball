@@ -1,5 +1,5 @@
 <img width="2533" height="1359" alt="Screenshot 2026-10-28 152602" src="https://github.com/user-attachments/assets/4a1393be-e564-47ee-a328-518a91940a79" />
-Disclaimer: This was made modstly with the help of AI, so I don't take too much credit for it. It was a decent amount of work to get right and help with but I don't want to take too much credit for this.
+Disclaimer: This was made mostly with the help of AI, so I don't take too much credit for it. It was a decent amount of work to get right and help with but I don't want to take too much credit for this.
 # Desktop-Virtual-Pinball
 VPIN for landscape monitors
 # VPinball Launcher
